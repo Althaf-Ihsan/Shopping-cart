@@ -10,7 +10,7 @@ In order to run this project locally, simply fork and clone the repository or do
 In the first terminal
 
 ```
-$ cd ClinicApp
+$ cd Shopping-cart
 $ npm install 
 $ npm run dev
 
